@@ -1,0 +1,10 @@
+(dp0
+S'mtech'
+p1
+S'mCa'
+p2
+sS'McA'
+p3
+S'MCA'
+p4
+s.
