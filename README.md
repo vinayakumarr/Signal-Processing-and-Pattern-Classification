@@ -1,5 +1,6 @@
 # Signal-Processing-and-Pattern-Classification
 
+<a href="https://zenodo.org/badge/latestdoi/126719291"><img src="https://zenodo.org/badge/126719291.svg" alt="DOI"></a>
 
 Please cite the following papers, if you use the code as part of your research
 
